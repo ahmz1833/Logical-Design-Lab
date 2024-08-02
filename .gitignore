@@ -22,6 +22,6 @@ Thumbs.db
 desktop.ini
 .directory
 
-# Ignore log files
-*.log
+# Ignore zip files
+*.zip
 
