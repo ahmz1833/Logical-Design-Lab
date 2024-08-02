@@ -1,3 +1,27 @@
+# Ignore my own folder
 **/.sources/
+
+# Ignore the Proteus backup folder
 **/Project Backups/
 *.workspace
+*.bak
+*.tmp
+
+# Ignore the Fritzing temporary files
+*.fzz~
+
+# Ignore Office temporary files
+~$*
+*.tmp
+*.swp
+*.swo
+
+# Ignore general system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
+
+# Ignore log files
+*.log
+
